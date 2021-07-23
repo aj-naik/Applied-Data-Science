@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Applied[[:space:]]Machine[[:space:]]Learning/train.csv filter=lfs diff=lfs merge=lfs -text
